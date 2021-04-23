@@ -1,3 +1,6 @@
 # source-dir-example
 
-My PR 1
+
+Example of source dir usage: https://docs.screwdriver.cd/user-guide/configuration/sourceDirectory
+
+Test 1
